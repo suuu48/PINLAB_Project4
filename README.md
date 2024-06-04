@@ -61,7 +61,6 @@ python3 -m sounddevice
     - [Using Google Cloud Platform Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/transcribe-client-libraries?hl=ko)
 
 ### Installing & Setting (based on Docker)
-- docker: [kimakuma8/ubuntu:project5](https://hub.docker.com/layers/kimakuma8/ubuntu/project5/images/sha256-8cf20343f696e5d59252f7b1ac4414f1cafd52551e400b9856be05765a131702?context=repo)
 
 - Grant sound device permission in Docker
 ```console
